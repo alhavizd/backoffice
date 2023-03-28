@@ -1,0 +1,27 @@
+header.head-navbar {
+  height: 56px;
+  background-color: #202123;
+  box-shadow: 0px 2px 4px 0px #00000026;
+  margin-top: 0px;
+  transform: translateY(0px);
+  left: 0px;
+  right: 0px;
+}
+.head-nav-content {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: relative;
+  z-index: 0;
+  color: #ffffff;
+  height: 100%;
+  padding: 8px 12px;
+}
+.spacer {
+  -webkit-box-flex: 1 !important;
+  -ms-flex-positive: 1 !important;
+  flex-grow: 1 !important;
+}
